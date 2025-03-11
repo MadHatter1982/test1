@@ -6,5 +6,3 @@ Zmiana kolejna, dodanie kolejnego commita
 
 I jeszcze raz
 
-
-
